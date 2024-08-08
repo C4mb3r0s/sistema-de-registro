@@ -1,3 +1,7 @@
 # Sistema de Registros 
 
-- Repositorio en construcción
+- Estado del proyecto: En construcción.
+
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
